@@ -1,6 +1,10 @@
 # Internet of Things : Predictive Maintenance
 This repository contains notebooks and scripts to get you started experimenting with predictive maintenance models.
 
+The data for this project can be found [here](https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/#turbofan). 
+
+This repository is meant to accompany [this blog post](TODO: link blog post here).
+
 ## Getting Started
 
 ### Generating Train and Test Data
@@ -26,7 +30,7 @@ The `test.csv` and `train.csv` files are in the following format:
 
 | Column     | Description                                                      |
 |------------|------------------------------------------------------------------|
-| dataset_id | id of the original dataset of this instance                      |
+| dataset_id | id of the dataset where this instance is found                   |
 | unit_id    | id of engine (unique in each dataset)                            |
 | cycle      | number of operational cycles since beginning of engine operation |
 | setting 1  | value of operational setting 1                                   |
