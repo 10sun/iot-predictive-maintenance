@@ -3,7 +3,7 @@ This repository contains notebooks and scripts to get you started experimenting 
 
 The data for this project can be found [here](https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/#turbofan). 
 
-This repository is meant to accompany [this blog post](TODO: link blog post here).
+This repository is meant to accompany [this blog post](https://www.svds.com/predictive-maintenance-iot).
 
 ## Getting Started
 
