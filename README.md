@@ -1,7 +1,7 @@
 # Internet of Things : Predictive Maintenance
 This repository contains notebooks and scripts to get you started experimenting with predictive maintenance models.
 
-The data for this project can be found [here](https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/#turbofan). 
+The Turbofan Engine Degradation Simulation Data Set used in this project can be found [here](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan). 
 
 This repository is meant to accompany [this blog post](https://www.svds.com/predictive-maintenance-iot).
 
